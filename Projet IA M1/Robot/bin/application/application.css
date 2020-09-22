@@ -1,0 +1,9 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.sc{
+	
+    -fx-background-image: url("Labyrinth_Robot.jpg");
+    -fx-background-size: 100% ;
+    -fx-background-position: center center;
+}
+
